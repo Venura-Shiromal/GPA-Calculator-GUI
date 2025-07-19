@@ -1,0 +1,14 @@
+D:\Others\Myself\Personal\Programming\GPA_Cal\bin\Debug\net9.0-windows\GPA_Cal.exe
+D:\Others\Myself\Personal\Programming\GPA_Cal\bin\Debug\net9.0-windows\GPA_Cal.deps.json
+D:\Others\Myself\Personal\Programming\GPA_Cal\bin\Debug\net9.0-windows\GPA_Cal.runtimeconfig.json
+D:\Others\Myself\Personal\Programming\GPA_Cal\bin\Debug\net9.0-windows\GPA_Cal.dll
+D:\Others\Myself\Personal\Programming\GPA_Cal\bin\Debug\net9.0-windows\GPA_Cal.pdb
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\GPA_Cal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\GPA_Cal.AssemblyInfoInputs.cache
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\GPA_Cal.AssemblyInfo.cs
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\GPA_Cal.csproj.CoreCompileInputs.cache
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\GPA_Cal.dll
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\refint\GPA_Cal.dll
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\GPA_Cal.pdb
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\GPA_Cal.genruntimeconfig.cache
+D:\Others\Myself\Personal\Programming\GPA_Cal\obj\Debug\net9.0-windows\ref\GPA_Cal.dll
