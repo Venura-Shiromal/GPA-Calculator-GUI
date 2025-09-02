@@ -5,3 +5,8 @@
 * **_This is only for first semester modules of MPR Students in Faculty of Engineering (UoM)_**
 
 * _Stay tuned for future updates!_
+
+## DISCONTINUED
+
+**Please proceed to the latest build**
+https://github.com/Venura-Shiromal/GPA-Calculator-BetterGUI
